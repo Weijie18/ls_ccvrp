@@ -10,7 +10,7 @@ A baseline algorithm for the CCVRP has been provided. This version is currently 
 
 ## Optimization Objective
 
-Set the maximum runtime for each instance to `600s`.
+Set the maximum runtime for each instance to `300s`.
 
 Test instances and target: (instances with predefined target values).
 
@@ -364,7 +364,7 @@ Compile the project. If errors occur, fix them until the program runs normally.
 
 Test the algorithm on `CMT1`, `CMT2`, `CMT3`, `CMT4`, `CMT5`, `CMT11`, and `CMT12`.
 
-The runtime limit for each instance is `600s`.
+The runtime limit for each instance is `300s`.
 
 ### Step 8: Compare Results
 
